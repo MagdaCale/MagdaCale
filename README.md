@@ -1,8 +1,12 @@
 
-<h3 align="center">Hello there, I'm Magda 👁️👄👁️</h3> 
-<h1 align="center" ><img src="MEE.png" alt="magdacale" width="150px" height="150px"/> A assistant FullStack Trainer</h1>
+## Hello there, I'm Magda 👁️👄👁️
 
-<!-- <p align="right"><img src="MEE.png" alt="magdacale" width="150px" height="150px"/> </p> -->
+<h1>A FullStack assistant Trainer</h1>
+
+
+[![Linkedin Badge](https://img.shields.io/badge/-haanyali-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haany-ali)](https://www.linkedin.com/in/magdalenacale)[![Gmail Badge](https://img.shields.io/badge/-asterp04@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:magdacale@gmail.com)](mailto:magdacale@gmail.com) 
+
+<img src="MEE.png" alt="magdacale" align="right"/> <!-- width="150px" height="150px" -->
 
 - 🔭 I’m currently working on **My Portfolio**
 
