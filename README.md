@@ -9,11 +9,11 @@
 
 <img src="MEE.png" alt="magdacale"  width="350px" height="350px" align="right"/> <!-- -->
 
-- 🔭 I’m currently working on **My Portfolio**
 
-- 🌱 I’m currently learning **Next.js, UI/UX**
 
-- 📫 How to reach me **m.cale@hotmail.de**
+- 🔭 I’m currently working on: **My Portfolio**
+
+- 🌱 I’m currently learning: **Next.js & UI/UX**
 
 - ⚡ Fun fact **I draw a lot**
 
