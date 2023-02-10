@@ -4,7 +4,8 @@
 <h1>A FullStack assistant Trainer</h1>
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-magdacale-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:///www.linkedin.com/in/magdalenacale)](https://www.linkedin.com/in/magdalenacale)<br>[![Gmail Badge](https://img.shields.io/badge/-magdacale@gmai.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:magdacale@gmail.com)](mailto:magdacale@gmail.com) 
+<p style="padding: 20px;">
+[![Linkedin Badge](https://img.shields.io/badge/-magdacale-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:///www.linkedin.com/in/magdalenacale)](https://www.linkedin.com/in/magdalenacale)<br>[![Gmail Badge](https://img.shields.io/badge/-magdacale@gmai.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:magdacale@gmail.com)](mailto:magdacale@gmail.com) </p>
 
 <img src="MEE.png" alt="magdacale" align="right"/> <!-- width="150px" height="150px" -->
 
