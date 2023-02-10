@@ -7,7 +7,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-magdacale-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:///www.linkedin.com/in/magdalenacale)](https://www.linkedin.com/in/magdalenacale)[![Gmail Badge](https://img.shields.io/badge/-magdacale@gmai.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:magdacale@gmail.com)](mailto:magdacale@gmail.com)
 
 
-<img src="MEE.png" alt="magdacale"  width="1250px" height="250px" align="right"/> <!-- -->
+<img src="MEE.png" alt="magdacale"  width="250px" height="250px" align="right"/> <!-- -->
 
 - 🔭 I’m currently working on **My Portfolio**
 
