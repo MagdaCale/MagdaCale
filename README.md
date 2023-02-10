@@ -2,8 +2,8 @@
 <h3 align="center">Hello there, I'm Magda 👁️👄👁️</h3> 
 <h1 align="center">A assistant FullStack Trainer</h1>
 
-
 <p align="right"><img src="MEE.png" alt="magdacale" width="150px" height="150px"/> </p>
+
 - 🔭 I’m currently working on **My Portfolio**
 
 - 🌱 I’m currently learning **Next.js, UI/UX**
