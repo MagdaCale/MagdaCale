@@ -1,5 +1,5 @@
 
-<h1>Hello there, I'm Magda 👁️👄👁️</h1> 
+<h1 align="center">Hello there, I'm Magda 👁️👄👁️</h1> 
 
 <h3 align="center">A assistant FullStack Trainer</h3>
 
