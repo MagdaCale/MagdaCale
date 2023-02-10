@@ -1,8 +1,8 @@
 
 <h3 align="center">Hello there, I'm Magda 👁️👄👁️</h3> 
-<h1 align="center" ><img src="MEE.png" alt="magdacale" width="150px" height="150px"/> </p>>A assistant FullStack Trainer</h1>
+<h1 align="center" ><img src="MEE.png" alt="magdacale" width="150px" height="150px"/> A assistant FullStack Trainer</h1>
 
-<p align="right"><img src="MEE.png" alt="magdacale" width="150px" height="150px"/> </p>
+<!-- <p align="right"><img src="MEE.png" alt="magdacale" width="150px" height="150px"/> </p> -->
 
 - 🔭 I’m currently working on **My Portfolio**
 
