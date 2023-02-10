@@ -3,7 +3,7 @@
 
 <h3 align="center">A assistant FullStack Trainer</h3>
 
-<p align="left"> <<img src="MEE.png" alt="magdacale" width="150px" height="150px"/> </p>
+<p align="left"><img src="MEE.png" alt="magdacale" width="150px" height="150px"/> </p>
 
 
 - 🔭 I’m currently working on **My Portfolio**
