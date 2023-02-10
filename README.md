@@ -4,15 +4,10 @@
 <h1>A FullStack assistant Trainer</h1>
 
 
-<!-- 
-[![Linkedin Badge](https://img.shields.io/badge/-magdacale-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:///www.linkedin.com/in/magdalenacale)](https://www.linkedin.com/in/magdalenacale)[![Gmail Badge](https://img.shields.io/badge/-magdacale@gmai.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:magdacale@gmail.com)](mailto:magdacale@gmail.com) -->
+[![Linkedin Badge](https://img.shields.io/badge/-magdacale-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:///www.linkedin.com/in/magdalenacale)](https://www.linkedin.com/in/magdalenacale)[![Gmail Badge](https://img.shields.io/badge/-magdacale@gmai.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:magdacale@gmail.com)](mailto:magdacale@gmail.com)
 
-<div style="padding: 20px;">
-  [![Linkedin Badge](https://img.shields.io/badge/-magdacale-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:///www.linkedin.com/in/magdalenacale)](https://www.linkedin.com/in/magdalenacale)
-  [![Gmail Badge](https://img.shields.io/badge/-magdacale@gmai.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:magdacale@gmail.com)](mailto:magdacale@gmail.com)
-</div>
 
-<img src="MEE.png" alt="magdacale" align="right"/> <!-- width="150px" height="150px" -->
+<img src="MEE.png" alt="magdacale"  width="150px" height="150px" align="right"/> <!-- -->
 
 - 🔭 I’m currently working on **My Portfolio**
 
