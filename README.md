@@ -1,8 +1,5 @@
 
-## Hello there, I'm Magda 👁️👄👁️
-
-<h1>A FullStack assistant Trainer</h1>
-
+## Hello there, I'm Magda and I'm a FullStack assistant Trainer 👁️👄👁️
 
 [![Linkedin Badge](https://img.shields.io/badge/-magdacale-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:///www.linkedin.com/in/magdalenacale)](https://www.linkedin.com/in/magdalenacale)[![Gmail Badge](https://img.shields.io/badge/-magdacale@gmai.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:magdacale@gmail.com)](mailto:magdacale@gmail.com)
 
@@ -15,7 +12,7 @@
 
 - 🌱 I’m currently learning: **Next.js & UI/UX**
 
-- ⚡ Fun fact **I draw a lot**
+- ⚡ Fun fact: **I draw a lot**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
