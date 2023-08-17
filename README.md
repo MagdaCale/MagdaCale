@@ -7,11 +7,6 @@
 <img src="MEE.png" alt="magdacale"  width="350px" height="350px" align="right"/> <!-- -->
 
 
-
-- 🔭 I’m currently working on: **My Portfolio**
-
-- 🌱 I’m currently learning: **Next.js & UI/UX**
-
 - ⚡ Fun fact: **I draw a lot**
 
 <h3 align="left">Connect with me:</h3>
