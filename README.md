@@ -1,8 +1,6 @@
 
 ## Hello there, I'm Magda and I'm a junior Front-End Developer 👁️👄👁️
 
-[![Linkedin Badge](https://img.shields.io/badge/-magdacale-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:///www.linkedin.com/in/magdalenacale)](https://www.linkedin.com/in/magdalenacale)
-
 - ⚡ Fun fact: **I draw a lot**
 
 <h3 align="left">Connect with me:</h3>
