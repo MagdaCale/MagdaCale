@@ -31,3 +31,4 @@ When I’m not coding, you’ll probably find me drawing.
   ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
   ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white)
   ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white)
+  ![InDesign](https://img.shields.io/badge/InDesign-FF3366?style=flat&logo=adobeindesign&logoColor=white)
